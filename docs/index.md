@@ -10,7 +10,7 @@ This section will help you understand if your device can run VRScience.
 <b>Oculus Quest 2:</b> Live and Working - Latest Version](https://ahonor25.github.io/VRScience/#oculus-quest-1--2-users) <br />
 [<b>Oculus Rift:</b> Being Worked On - Build Errors <br />
 <b>Oculus Rift S:</b> Being Worked On - Build Errors](https://ahonor25.github.io/VRScience/#oculus-rift--rift-s-users) <br />
-<b>Windows 7 & 10 (non VR)</b> Not avalible yet - Stay Tuned <br />
+[<b>Windows 7 & 10 (non VR)</b> Not avalible yet - Stay Tuned](https://github.com/ahonor25/VRScience/blob/main/docs/index.md#note-for-pc-users) <br />
 <b>macOS:</b> Not avalible yet - Stay Tuned <br />
 <b>iOS:</b> Not avalible yet - Stay Tuned <br />
 <b>AndroidVR:</b> Alpha Stage - May Not Work <br />

@@ -6,15 +6,15 @@ VRScience is an ongoing project displaying how the world can make bioplastics, a
 
 This section will help you understand if your device can run VRScience.
 
-[<b>Oculus Quest 1:</b> Live and Working - Latest Version](#### Oculus Quest 1 & 2 Users) <br />
-[<b>Oculus Quest 2:</b> Live and Working - Latest Version](#### Oculus Quest 1 & 2 Users) <br />
-[<b>Oculus Rift:</b>](#### Oculus Rift & Rift S Users)) Being Worked On - Build Errors <br />
-[<b>Oculus Rift S:</b> Being Worked On - Build Errors <br />](#### Oculus Rift & Rift S Users)
-[<b>Windows 7 & 10 (non VR)</b> Not avalible yet - Stay Tuned <br />](#### NOTE FOR PC USERS)
+<b>Oculus Quest 1:</b> Live and Working - Latest Version] <br />
+<b>Oculus Quest 2:</b> Live and Working - Latest Version <br />
+<b>Oculus Rift:</b>](#### Oculus Rift & Rift S Users)) Being Worked On - Build Errors <br />
+<b>Oculus Rift S:</b> Being Worked On - Build Errors <br />
+<b>Windows 7 & 10 (non VR)</b> Not avalible yet - Stay Tuned <br />
 <b>macOS:</b> Not avalible yet - Stay Tuned <br />
-[<b>iOS:</b> Not avalible yet - Stay Tuned <br />](#### NOTE FOR iOS & NON-ANDROIDVR USERS)
-[<b>AndroidVR:</b> Alpha Stage - May Not Work <br />](#### EXPERIMENTAL: AndroidVR)
-[<b>Android (non-VR):</b> Not avalible yet - Stay Tuned <br />](#### NOTE FOR iOS & NON-ANDROIDVR USERS)
+<b>iOS:</b> Not avalible yet - Stay Tuned <br />
+<b>AndroidVR:</b> Alpha Stage - May Not Work <br />
+<b>Android (non-VR):</b> Not avalible yet - Stay Tuned <br />
 
 
 ### Version History - Oculus Quest and AndroidVR

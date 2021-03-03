@@ -12,30 +12,19 @@ VRScience has had multiple versions, but each version is archived for easy acces
 [Version 0.5](https://cdn-34.anonfiles.com/V4C8v788qd/e64542c0-1614793956/VR%20Science%20Alpha%20Version%2005.apk) <br />
 [Version 0.12](https://cdn-35.anonfiles.com/Ld7av789q5/6533be8d-1614793468/VR%20Science%20Alpha%20Version%20012.apk) <br />
 
-```markdown
-Syntax highlighted code block
+### How did we make it?
 
-# Header 1
-## Header 2
-### Header 3
+We used [Unity](https://unity.com/) and the [C# programming language](https://docs.microsoft.com/en-us/dotnet/csharp/) with [Virtual Studio 2019](https://visualstudio.microsoft.com/) to write and build our game. To make the models used in the game, Jake used [Blender](https://www.blender.org/) and I used [3ds Max 2022](https://www.autodesk.com/products/3ds-max/overview?term=1-YEAR&support=null). The code is freely avalible on the GitHub page (see the button on the top right) where you can see how we put together our code. If you are interested in remixing our project, you can create a pull request on out GitHub page (see the button at the top right). This will allow you to make a copy of our code, and edit it with the software we used.
 
-- Bulleted
-- List
+### Interested in making a game?
 
-1. Numbered
-2. List
+You will need to have the software we used, which can be found easily by googling the tools we used. You should install Unity, Blender, and Virtual Studio. A YouTube channel that may be helpful has been linked below, and will teach you everything you need to know about getting started.
 
-**Bold** and _Italic_ and `Code` text
+[Helpful YouTube Channel for Unity](https://www.youtube.com/channel/UCPJlesN59MzHPPCp0Lg8sLw)
 
-[Link](url) and ![Image](src)
-```
+The playlist for Introduction to Unity is all you need to get started can be found [here](https://www.youtube.com/playlist?list=PLrk7hDwk64-a_gf7mBBduQb3PEBYnG4fU)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### How to play our game
 
-### Jekyll Themes
+<h3>Oculus Quest 1 & 2 Users</h3>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ahonor25/VRScience/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.

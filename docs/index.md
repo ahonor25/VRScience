@@ -26,5 +26,5 @@ The playlist for Introduction to Unity is all you need to get started can be fou
 
 ### How to play our game
 
-<h3>Oculus Quest 1 & 2 Users</h3>
+<h5>Oculus Quest 1 & 2 Users</h5>
 

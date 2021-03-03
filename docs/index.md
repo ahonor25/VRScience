@@ -28,3 +28,4 @@ The playlist for Introduction to Unity is all you need to get started can be fou
 
 <h5>Oculus Quest 1 & 2 Users</h5>
 
+You will need special software called SideQuest to install our game. You can find the software freely avalable to the public [here](https://sidequestvr.com/setup-howto). Make sure to follow the directions on that page, and then come back here to finish. After you are done, you want to find the icon that looks like a box with an arrow. You can find a screenshot of it [here](https://tinyimg.io/i/iNkp17V.png) to help. After you click that, find the file named ```code VR Science Version (number)``` 

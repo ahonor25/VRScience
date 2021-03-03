@@ -28,4 +28,11 @@ The playlist for Introduction to Unity is all you need to get started can be fou
 
 <h5>Oculus Quest 1 & 2 Users</h5>
 
-You will need special software called SideQuest to install our game. You can find the software freely avalable to the public [here](https://sidequestvr.com/setup-howto). Make sure to follow the directions on that page, and then come back here to finish. After you are done, you want to find the icon that looks like a box with an arrow. You can find a screenshot of it [here](https://tinyimg.io/i/iNkp17V.png) to help. After you click that, find the file named ```code VR Science Version (number)``` 
+You will need special software called SideQuest to install our game. You can find the software freely avalable to the public [here](https://sidequestvr.com/setup-howto). Make sure to follow the directions on that page, and then come back here to finish. After you are done, you want to find the icon that looks like a box with an arrow. You can find a screenshot of it [here](https://tinyimg.io/i/iNkp17V.png) to help. Make sure your headset is connected to your computer, and a green dot appears in the top right, and it says connected. After you click the box with an arrow, find the file named ```VR Science Alpha Version (version number)```, select it, then wait until SideQuest says it's done, this shouldn't take very long. After you did that, put on your headset, and find the app/game icon in VR which should look like a bunch of boxes. A window should appear, and in the top right of the window, find a dropdown. Scroll down with your controller, and select "Unknown Sources". Then, find VRScience or BioplasticsVR (depends on what version you have, newer ones should be called VRScience). After finding it, click on it, and wait for the game to load. Yay, now you can play VRScience, the controls are very easy, and shouldn't be to hard to find.
+
+<h5>Oculus Rift & Rift S Users</h5>
+
+For this, you will need not need to use Unity or SideQuest. The links below are for the latest version of the game only. After clicking on the link, an .exe file will appear in your downloads folder. All you need to do is launch the Oculus software like all games, connect your headset, and set it up within the Oculus software. After doing that, double click on the .exe file, and a window will appear. Put on your headset, and you will be done and ready to play! The controls are very easy, and shouldn't be to hard to find.
+
+<b>Rift & Rift S Game Links</b>
+[Version 0.8](https://google.com/)

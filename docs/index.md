@@ -4,9 +4,13 @@ VRScience is an ongoing project displaying how the world can make bioplastics, a
 
 ### Version History
 
-VRScience has had multiple versions, but each version is archived for easy access. If you have an Oculus Quest 1 or 2, you can sideload it to your device (instructions at the end)
+VRScience has had multiple versions, but each version is archived for easy access. If you have an Oculus Quest 1 or 2, you can sideload it to your device (instructions at the end). Only some versions have been archived, and some are not working, so if you are interested in finding a new, working version, use the latest version.
 
-[https://google.com/](https://google.com/)
+[Version 0.8](https://cdn-34.anonfiles.com/r6Devb8bq9/6b917e06-1614794259/VR%20Science%20Alpha%20Version%2008.apk) - Most Recent Version
+[Version 0.7](https://cdn-33.anonfiles.com/naDev485q8/3645b18a-1614794228/VR%20Science%20Alpha%20Version%2007.apk)
+[Version 0.6](https://cdn-35.anonfiles.com/p9Dcv281q5/409a1862-1614793991/VR%20Science%20Alpha%20Version%2006.apk)
+[Version 0.5](https://cdn-34.anonfiles.com/V4C8v788qd/e64542c0-1614793956/VR%20Science%20Alpha%20Version%2005.apk)
+[Version 0.12](https://cdn-35.anonfiles.com/Ld7av789q5/6533be8d-1614793468/VR%20Science%20Alpha%20Version%20012.apk)
 
 ```markdown
 Syntax highlighted code block

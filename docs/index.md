@@ -2,6 +2,19 @@
 
 VRScience is an ongoing project displaying how the world can make bioplastics, and use sustainable buildings to make the world climate change free. This game is just made as a demonstration of how this can be implemented, and allows you to see it in real time. Even if you have a VR headset, you should watch the video to understand why things are there, and understand more on how these things are made.
 
+### VRScience Status
+
+This section will help you understand if your device can run VRScience.
+
+<b>Oculus Quest 1:</b> Live and Working - Latest Version
+<b>Oculus Quest 2:</b> Live and Working - Latest Version
+<b>Oculus Rift:</b> Being Worked On - Links Broken
+<b>Oculus Rift S:</b> Being Worked On - Links Broken
+<b>Windows 7 & 10 (non VR)</b> Not avalible yet - Stay Tuned
+<b>macOS:</b> Not avalible yet - Stay Tuned
+<b>iOS:</b> Not avalible yet - Stay Tuned
+<b>AndroidVR:</b> Alpha Stage
+
 ### Version History - Oculus Quest
 
 VRScience has had multiple versions, but each version is archived for easy access. If you have an Oculus Quest 1 or 2, you can sideload it to your device (instructions at the end). Only some versions have been archived, and some are not working, so if you are interested in finding a new, working version, use the latest version.
@@ -15,7 +28,7 @@ VRScience has had multiple versions, but each version is archived for easy acces
 
 ### How did we make it?
 
-We used [Unity](https://unity.com/) and the [C# programming language](https://docs.microsoft.com/en-us/dotnet/csharp/) with [Virtual Studio 2019](https://visualstudio.microsoft.com/) to write and build our game. To make the models used in the game, Jake used [Blender](https://www.blender.org/) and I used [3ds Max 2022](https://www.autodesk.com/products/3ds-max/overview?term=1-YEAR&support=null). The code is freely avalible on the GitHub page (see the button on the top right) where you can see how we put together our code. If you are interested in remixing our project, you can create a pull request on out GitHub page (see the button at the top right). This will allow you to make a copy of our code, and edit it with the software we used.
+We used [Unity](https://unity.com/) and the [C# programming language](https://docs.microsoft.com/en-us/dotnet/csharp/) with [Virtual Studio 2019](https://visualstudio.microsoft.com/) to write and build our game. To make the models used in the game, Jake used [Blender](https://www.blender.org/) and I used [3ds Max 2022](https://www.autodesk.com/products/3ds-max/overview?term=1-YEAR&support=null). The code is freely avalible on the GitHub page (see the button on the top right) where you can see how we put together our code. If you are interested in remixing our project, you can create a pull request on out GitHub page (see the button at the top right). This will allow you to make a copy of our code, and edit it with the software we used. 
 
 ### Interested in making a game?
 
@@ -48,7 +61,11 @@ If you have an Android phone, you may be able to use VRScience with your phone. 
 
 <h4>NOTE FOR iOS & NON-ANDROIDVR USERS<h4>
   
-ScienceVR does <b>NOT</b> work on phones without VR headsets or iPad/iPhone/iPod users. Please don't try to install them on those devices, Android will install the app but you won't be able to move. Note that is the intention of the game, to use VR controllers, not to move around with your fingers. iOS devices will not install the game since it is not made for iOS devices. The file will not open, and isn't native to iOS devices. 
+VRScience does <b>NOT</b> work on phones without VR headsets or iPad/iPhone/iPod users. Please don't try to install them on those devices, Android will install the app but you won't be able to move. Note that is the intention of the game, to use VR controllers, not to move around with your fingers. iOS devices will not install the game since it is not made for iOS devices. The file will not open, and isn't native to iOS devices. 
+
+<h4>NOTE FOR PC USERS</h4>
+
+Please note that the latest version for Oculus Rift and Rift S doesn't work for PC users. The EXE file is runnable on a PC, but is unusable without a VR headset. This is also a future development plan, and will most likely be before the port to non-AndroidVR users and iOS users. Again, please do not download the game if you don't have a VR headset.
 
 ### Controls
 

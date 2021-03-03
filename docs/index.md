@@ -6,15 +6,15 @@ VRScience is an ongoing project displaying how the world can make bioplastics, a
 
 This section will help you understand if your device can run VRScience.
 
-<b>Oculus Quest 1:</b> Live and Working - Latest Version <br />
-<b>Oculus Quest 2:</b> Live and Working - Latest Version <br />
-<b>Oculus Rift:</b> Being Worked On - Build Errors <br />
-<b>Oculus Rift S:</b> Being Worked On - Build Errors <br />
-<b>Windows 7 & 10 (non VR)</b> Not avalible yet - Stay Tuned <br />
+[<b>Oculus Quest 1:</b> Live and Working - Latest Version <br />](#### Oculus Quest 1 & 2 Users)
+[<b>Oculus Quest 2:</b> Live and Working - Latest Version <br />](#### Oculus Quest 1 & 2 Users)
+[<b>Oculus Rift:</b> Being Worked On - Build Errors <br />](#### Oculus Rift & Rift S Users)
+[<b>Oculus Rift S:</b> Being Worked On - Build Errors <br />](#### Oculus Rift & Rift S Users)
+[<b>Windows 7 & 10 (non VR)</b> Not avalible yet - Stay Tuned <br />](#### NOTE FOR PC USERS)
 <b>macOS:</b> Not avalible yet - Stay Tuned <br />
-<b>iOS:</b> Not avalible yet - Stay Tuned <br />
-<b>AndroidVR:</b> Alpha Stage - May Not Work <br />
-<b>Android (non-VR):</b> Not avalible yet - Stay Tuned <br />
+[<b>iOS:</b> Not avalible yet - Stay Tuned <br />](#### NOTE FOR iOS & NON-ANDROIDVR USERS)
+[<b>AndroidVR:</b> Alpha Stage - May Not Work <br />](#### EXPERIMENTAL: AndroidVR)
+[<b>Android (non-VR):</b> Not avalible yet - Stay Tuned <br />](#### NOTE FOR iOS & NON-ANDROIDVR USERS)
 
 
 ### Version History - Oculus Quest and AndroidVR
@@ -51,23 +51,23 @@ This game is licenced under the MIT licence meaning you are free to add improvem
 
 ### How to play our game
 
-<h4>Oculus Quest 1 & 2 Users</h4>
+#### Oculus Quest 1 & 2 Users
 
 You will need special software called SideQuest to install our game. You can find the software freely avalable to the public [here](https://sidequestvr.com/setup-howto). Make sure to follow the directions on that page, and then come back here to finish. After you are done, you want to find the icon that looks like a box with an arrow. You can find a screenshot of it [here](https://tinyimg.io/i/iNkp17V.png) to help. Make sure your headset is connected to your computer, and a green dot appears in the top right, and it says connected. After you click the box with an arrow, find the file named ```VR Science Alpha Version (version number).apk```, select it, then wait until SideQuest says it's done, this shouldn't take very long. After you did that, put on your headset, and find the app/game icon in VR which should look like a bunch of boxes. A window should appear, and in the top right of the window, find a dropdown. Scroll down with your controller, and select "Unknown Sources". Then, find VRScience or BioplasticsVR (depends on what version you have, newer ones should be called VRScience). After finding it, click on it, and wait for the game to load. Yay, now you can play VRScience, the controls are located [here](### Controls)
 
-<h4>Oculus Rift & Rift S Users</h4>
+#### Oculus Rift & Rift S Users
 
 For Oculus Rift and Rift S headsets, you can use the EXE file provided at the top of the page. After downloading the file, open it, and agree to the licence agreement, and install it where you would like it installed, the exisitng location is recommended. After you do that, hit the install button. Now, on your desktop, you should see a city icon with the name of "VRScience". Before opening it, make sure to setup your headset within the Oculus software, and connect the controllers. After you do that, you can start up the game, just double click on the icon. Once you get into the game, you should see a very stretched out image of the city icon. Don't worry, this is normal, and all you need to do is wait a couple seconds. This image checks the display is functioning and isn't bad. After you have loaded into the game, you can freely explore. Enjoy the game! The controls can be found [here](### Controls)
 
-<h4><b>EXPERIMENTAL:</b> AndroidVR</h4>
+#### EXPERIMENTAL: AndroidVR
 
 If you have an Android phone, you may be able to use VRScience with your phone. This method should be only used by people who already have the things needed to run VR apps. If you already have a Cardboard headset or other type of VR headset, and 1 or 2 VR controllers, you can continue. Note that support with the headset is not avalible yet, that is coming soon. If you don't, please don't buy these things just to try out the game, you can use the YouTube video above to see the game. We will soon be updating it to a 360 degree video so you can see it in VR without a controller or even a headset. If you have the things above, you can continute. Remember, this is still in development, and may not work for all headsets and controllers. Install the Oculus Quest version onto your phone by visiting this page on your phone and clicking on the .apk file downloaded. [If you need more help doing this step, click here to get a guide](https://www.tech-recipes.com/rx/60953/install-apk-files-android/) Now that you installed it, you can open it on your phone. Make sure that your controllers are connected to your phone, then you can move around. Note that putting it in the headset will be very disorienting as the game doesn't have Cardboard support. This page will update as more features become available. The controls can be found [here](### Controls)
 
-<h4>NOTE FOR iOS & NON-ANDROIDVR USERS<h4>
+#### NOTE FOR iOS & NON-ANDROIDVR USERS
   
 VRScience does <b>NOT</b> work on phones without VR headsets or iPad/iPhone/iPod users. Please don't try to install them on those devices, Android will install the app but you won't be able to move. Note that is the intention of the game, to use VR controllers, not to move around with your fingers. iOS devices will not install the game since it is not made for iOS devices. The file will not open, and isn't native to iOS devices. 
 
-<h4>NOTE FOR PC USERS</h4>
+#### NOTE FOR PC USERS
 
 Please note that the latest version for Oculus Rift and Rift S doesn't work for PC users. The EXE file is runnable on a PC, but is unusable without a VR headset. This is also a future development plan, and will most likely be before the port to non-AndroidVR users and iOS users. Again, please do not download the game if you don't have a VR headset.
 

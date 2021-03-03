@@ -1,12 +1,13 @@
 ## Welcome to VRScience
 
-VRScience is an ongoing project displaying how the world can make bioplastics, and use sustainable buildings to make the world climate change free. 
+VRScience is an ongoing project displaying how the world can make bioplastics, and use sustainable buildings to make the world climate change free. This game is just made as a demonstration of how this can be implemented, and allows you to see it in real time. Even if you have a VR headset, you should watch the video to understand why things are there, and understand more on how these things are made.
 
 ### Version History - Oculus Quest
 
 VRScience has had multiple versions, but each version is archived for easy access. If you have an Oculus Quest 1 or 2, you can sideload it to your device (instructions at the end). Only some versions have been archived, and some are not working, so if you are interested in finding a new, working version, use the latest version.
 
-[Version 0.8](https://cdn-34.anonfiles.com/r6Devb8bq9/6b917e06-1614794259/VR%20Science%20Alpha%20Version%2008.apk) - Most Recent Version <br />
+[Version 0.9](https://cdn-35.anonfiles.com/Z7W5yd84qc/d066b5eb-1614811531/VR%20Science%20Alpha%20Version%2009.apk) - Most Recent Version <br /> 
+[Version 0.8](https://cdn-34.anonfiles.com/r6Devb8bq9/6b917e06-1614794259/VR%20Science%20Alpha%20Version%2008.apk) <br />
 [Version 0.7](https://cdn-33.anonfiles.com/naDev485q8/3645b18a-1614794228/VR%20Science%20Alpha%20Version%2007.apk) <br />
 [Version 0.6](https://cdn-35.anonfiles.com/p9Dcv281q5/409a1862-1614793991/VR%20Science%20Alpha%20Version%2006.apk) <br />
 [Version 0.5](https://cdn-34.anonfiles.com/V4C8v788qd/e64542c0-1614793956/VR%20Science%20Alpha%20Version%2005.apk) <br />
@@ -32,7 +33,7 @@ This game is licenced under the MIT licence meaning you are free to add improvem
 
 <h4>Oculus Quest 1 & 2 Users</h4>
 
-You will need special software called SideQuest to install our game. You can find the software freely avalable to the public [here](https://sidequestvr.com/setup-howto). Make sure to follow the directions on that page, and then come back here to finish. After you are done, you want to find the icon that looks like a box with an arrow. You can find a screenshot of it [here](https://tinyimg.io/i/iNkp17V.png) to help. Make sure your headset is connected to your computer, and a green dot appears in the top right, and it says connected. After you click the box with an arrow, find the file named ```VR Science Alpha Version (version number)```, select it, then wait until SideQuest says it's done, this shouldn't take very long. After you did that, put on your headset, and find the app/game icon in VR which should look like a bunch of boxes. A window should appear, and in the top right of the window, find a dropdown. Scroll down with your controller, and select "Unknown Sources". Then, find VRScience or BioplasticsVR (depends on what version you have, newer ones should be called VRScience). After finding it, click on it, and wait for the game to load. Yay, now you can play VRScience, the controls are very easy, and shouldn't be to hard to find.
+You will need special software called SideQuest to install our game. You can find the software freely avalable to the public [here](https://sidequestvr.com/setup-howto). Make sure to follow the directions on that page, and then come back here to finish. After you are done, you want to find the icon that looks like a box with an arrow. You can find a screenshot of it [here](https://tinyimg.io/i/iNkp17V.png) to help. Make sure your headset is connected to your computer, and a green dot appears in the top right, and it says connected. After you click the box with an arrow, find the file named ```VR Science Alpha Version (version number).apk```, select it, then wait until SideQuest says it's done, this shouldn't take very long. After you did that, put on your headset, and find the app/game icon in VR which should look like a bunch of boxes. A window should appear, and in the top right of the window, find a dropdown. Scroll down with your controller, and select "Unknown Sources". Then, find VRScience or BioplasticsVR (depends on what version you have, newer ones should be called VRScience). After finding it, click on it, and wait for the game to load. Yay, now you can play VRScience, the controls are located below.
 
 <h4>Oculus Rift & Rift S Users</h4>
 
@@ -48,3 +49,17 @@ If you have an Android phone, you may be able to use VRScience with your phone. 
 <h4>NOTE FOR iOS & NON-ANDROIDVR USERS<h4>
   
 ScienceVR does <b>NOT</b> work on phones without VR headsets or iPad/iPhone/iPod users. Please don't try to install them on those devices, Android will install the app but you won't be able to move. Note that is the intention of the game, to use VR controllers, not to move around with your fingers. iOS devices will not install the game since it is not made for iOS devices. The file will not open, and isn't native to iOS devices. 
+
+### Controls
+
+After you have installed the game, you probally want to know how to play the game. The controls are below, and are standard to most other games. 
+
+Right Joystick => Controls Camera and Movement
+Right Trigger => Teleport
+Left Trigger => Teleport
+Right Grip Button => Pick Up Objects
+Left Grip Button => Pick Up Objects
+
+### Questions?
+
+If you have any questions, or need help setting up the game, you can contact me [by email](mailto:ahonor25@stjohnsprep.org).
